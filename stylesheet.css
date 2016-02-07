@@ -27,6 +27,7 @@
 .image-footer {
   display: flex;
   align-self: baseline;
+  border-bottom: 1px solid red;
   
 }
 .image-caption {
